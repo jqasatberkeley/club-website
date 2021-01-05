@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/club-website/static/css/main.0ade436e.chunk.css",
+    "main.js": "/club-website/static/js/main.5f3a4ae0.chunk.js",
+    "main.js.map": "/club-website/static/js/main.5f3a4ae0.chunk.js.map",
+    "runtime-main.js": "/club-website/static/js/runtime-main.5e2adb1f.js",
+    "runtime-main.js.map": "/club-website/static/js/runtime-main.5e2adb1f.js.map",
+    "static/css/2.40563451.chunk.css": "/club-website/static/css/2.40563451.chunk.css",
+    "static/js/2.d914453d.chunk.js": "/club-website/static/js/2.d914453d.chunk.js",
+    "static/js/2.d914453d.chunk.js.map": "/club-website/static/js/2.d914453d.chunk.js.map",
+    "index.html": "/club-website/index.html",
+    "precache-manifest.9e6c5a0d9efd5c277c63c6068a64d1c3.js": "/club-website/precache-manifest.9e6c5a0d9efd5c277c63c6068a64d1c3.js",
+    "service-worker.js": "/club-website/service-worker.js",
+    "static/css/2.40563451.chunk.css.map": "/club-website/static/css/2.40563451.chunk.css.map",
+    "static/css/main.0ade436e.chunk.css.map": "/club-website/static/css/main.0ade436e.chunk.css.map",
+    "static/js/2.d914453d.chunk.js.LICENSE.txt": "/club-website/static/js/2.d914453d.chunk.js.LICENSE.txt",
+    "static/media/gold-logopng-3.svg": "/club-website/static/media/gold-logopng-3.97a2082d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e2adb1f.js",
+    "static/css/2.40563451.chunk.css",
+    "static/js/2.d914453d.chunk.js",
+    "static/css/main.0ade436e.chunk.css",
+    "static/js/main.5f3a4ae0.chunk.js"
+  ]
+}
