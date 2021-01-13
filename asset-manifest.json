@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/club-website/static/css/main.8dbf28d8.chunk.css",
-    "main.js": "/club-website/static/js/main.59202bfe.chunk.js",
-    "main.js.map": "/club-website/static/js/main.59202bfe.chunk.js.map",
+    "main.js": "/club-website/static/js/main.61b94f06.chunk.js",
+    "main.js.map": "/club-website/static/js/main.61b94f06.chunk.js.map",
     "runtime-main.js": "/club-website/static/js/runtime-main.7c0c564e.js",
     "runtime-main.js.map": "/club-website/static/js/runtime-main.7c0c564e.js.map",
     "static/css/2.40563451.chunk.css": "/club-website/static/css/2.40563451.chunk.css",
     "static/js/2.6f8de15d.chunk.js": "/club-website/static/js/2.6f8de15d.chunk.js",
     "static/js/2.6f8de15d.chunk.js.map": "/club-website/static/js/2.6f8de15d.chunk.js.map",
     "index.html": "/club-website/index.html",
-    "precache-manifest.bef96e05958f1b7fabeab72679c57dd4.js": "/club-website/precache-manifest.bef96e05958f1b7fabeab72679c57dd4.js",
+    "precache-manifest.77d7b46d83ea46b085ae3ee6c0e7e754.js": "/club-website/precache-manifest.77d7b46d83ea46b085ae3ee6c0e7e754.js",
     "service-worker.js": "/club-website/service-worker.js",
     "static/css/2.40563451.chunk.css.map": "/club-website/static/css/2.40563451.chunk.css.map",
     "static/css/main.8dbf28d8.chunk.css.map": "/club-website/static/css/main.8dbf28d8.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.40563451.chunk.css",
     "static/js/2.6f8de15d.chunk.js",
     "static/css/main.8dbf28d8.chunk.css",
-    "static/js/main.59202bfe.chunk.js"
+    "static/js/main.61b94f06.chunk.js"
   ]
 }
