@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/jqasatberkeley.com/static/css/main.8dbf28d8.chunk.css",
-    "main.js": "/jqasatberkeley.com/static/js/main.20fa348c.chunk.js",
-    "main.js.map": "/jqasatberkeley.com/static/js/main.20fa348c.chunk.js.map",
-    "runtime-main.js": "/jqasatberkeley.com/static/js/runtime-main.01d8debd.js",
-    "runtime-main.js.map": "/jqasatberkeley.com/static/js/runtime-main.01d8debd.js.map",
-    "static/css/2.40563451.chunk.css": "/jqasatberkeley.com/static/css/2.40563451.chunk.css",
-    "static/js/2.6f8de15d.chunk.js": "/jqasatberkeley.com/static/js/2.6f8de15d.chunk.js",
-    "static/js/2.6f8de15d.chunk.js.map": "/jqasatberkeley.com/static/js/2.6f8de15d.chunk.js.map",
-    "index.html": "/jqasatberkeley.com/index.html",
-    "precache-manifest.fe89033ae8c58dcbaf9a6a53380c30c5.js": "/jqasatberkeley.com/precache-manifest.fe89033ae8c58dcbaf9a6a53380c30c5.js",
-    "service-worker.js": "/jqasatberkeley.com/service-worker.js",
-    "static/css/2.40563451.chunk.css.map": "/jqasatberkeley.com/static/css/2.40563451.chunk.css.map",
-    "static/css/main.8dbf28d8.chunk.css.map": "/jqasatberkeley.com/static/css/main.8dbf28d8.chunk.css.map",
-    "static/js/2.6f8de15d.chunk.js.LICENSE.txt": "/jqasatberkeley.com/static/js/2.6f8de15d.chunk.js.LICENSE.txt",
-    "static/media/gold-logopng-3.svg": "/jqasatberkeley.com/static/media/gold-logopng-3.97a2082d.svg"
+    "main.css": "/club-website/static/css/main.8dbf28d8.chunk.css",
+    "main.js": "/club-website/static/js/main.61b94f06.chunk.js",
+    "main.js.map": "/club-website/static/js/main.61b94f06.chunk.js.map",
+    "runtime-main.js": "/club-website/static/js/runtime-main.7c0c564e.js",
+    "runtime-main.js.map": "/club-website/static/js/runtime-main.7c0c564e.js.map",
+    "static/css/2.40563451.chunk.css": "/club-website/static/css/2.40563451.chunk.css",
+    "static/js/2.6f8de15d.chunk.js": "/club-website/static/js/2.6f8de15d.chunk.js",
+    "static/js/2.6f8de15d.chunk.js.map": "/club-website/static/js/2.6f8de15d.chunk.js.map",
+    "index.html": "/club-website/index.html",
+    "precache-manifest.77d7b46d83ea46b085ae3ee6c0e7e754.js": "/club-website/precache-manifest.77d7b46d83ea46b085ae3ee6c0e7e754.js",
+    "service-worker.js": "/club-website/service-worker.js",
+    "static/css/2.40563451.chunk.css.map": "/club-website/static/css/2.40563451.chunk.css.map",
+    "static/css/main.8dbf28d8.chunk.css.map": "/club-website/static/css/main.8dbf28d8.chunk.css.map",
+    "static/js/2.6f8de15d.chunk.js.LICENSE.txt": "/club-website/static/js/2.6f8de15d.chunk.js.LICENSE.txt",
+    "static/media/gold-logopng-3.svg": "/club-website/static/media/gold-logopng-3.97a2082d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.01d8debd.js",
+    "static/js/runtime-main.7c0c564e.js",
     "static/css/2.40563451.chunk.css",
     "static/js/2.6f8de15d.chunk.js",
     "static/css/main.8dbf28d8.chunk.css",
-    "static/js/main.20fa348c.chunk.js"
+    "static/js/main.61b94f06.chunk.js"
   ]
 }
